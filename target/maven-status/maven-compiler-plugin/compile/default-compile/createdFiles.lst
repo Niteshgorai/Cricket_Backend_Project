@@ -1,0 +1,7 @@
+com\crick\app\CricketInformer\entities\Match.class
+com\crick\app\CricketInformer\services\MatchService.class
+com\crick\app\CricketInformer\services\impl\MatchServiceImpl.class
+com\crick\app\CricketInformer\entities\MatchStatus.class
+com\crick\app\CricketInformer\CricketInformerApplication.class
+com\crick\app\CricketInformer\repositories\MatchRepo.class
+com\crick\app\CricketInformer\controllers\MatchController.class

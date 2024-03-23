@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.crick.app.CricketInformer.CricketInformerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.95 s - in com.crick.app.CricketInformer.CricketInformerApplicationTests
